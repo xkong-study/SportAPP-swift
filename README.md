@@ -1,2 +1,2 @@
-# swift_app-sport-detect-app-
+# sport detect app
 Use swift to realize linkage between iPhone and iwatch to obtain sports data
